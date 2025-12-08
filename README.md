@@ -25,22 +25,23 @@ Driven to empower others through technology.
 
 ### Tools & Technologies
 **Languages:**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Robotics_Core-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI_&_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Robotics & AI:**
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Embedded & Electronics:**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP-A22846?style=for-the-badge&logo=esp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-MCU-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-IoT_Ready-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 **Software:**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-FF6F00?style=for-the-badge&logo=proteus&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Design-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-Simulation-1A237E?style=for-the-badge&logoColor=white)
+
 
 ### 📌 Featured Projects
 - **Autonomous River Cleaner Boat** - A robotic boat designed to autonomously move and collect floating waste from river surface. Uses sensors, motor control, and intelligent navigation to support environmental cleanup.
