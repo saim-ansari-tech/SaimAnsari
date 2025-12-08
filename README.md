@@ -40,7 +40,7 @@ Driven to empower others through technology.
 **Software:**
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Design-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-Simulation-1A237E?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-PCB_Design-1A237E?style=for-the-badge&logoColor=white)
 
 
 ### 📌 Featured Projects
@@ -52,11 +52,14 @@ Driven to empower others through technology.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saim-ansari-tech&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saim-ansari-tech&layout=compact&theme=tokyonight" height="160">
-</p>
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saim-ansari-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-ansari-tech&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saim-ansari-tech&theme=tokyonight&hide_border=true)
+
 
 ---
 
@@ -67,12 +70,14 @@ Driven to empower others through technology.
 
 ---
 
-### 📫 Connect With Me
-- GitHub: **@saim-ansari-tech**  
-- LinkedIn: **www.linkedin.com/in/saim-ansari-990620283**
-- Email: **saim_ansari2005@outlook.com**
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saim-ansari-990620283)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=microsoft-outlook)](mailto:saim_ansari2005@outlook.com)
 
 ---
 
-### ⚡ Fun Fact
-I love designing intelligent systems that directly solve real-world problems.
+### 📊 GitHub Stats
+
+![Saim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saim-ansari-tech&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-ansari-tech&layout=compact&theme=tokyonight)
