@@ -52,16 +52,6 @@ Driven to empower others through technology.
 
 ---
 
-### 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saim-ansari-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saim-ansari-tech&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saim-ansari-tech&theme=tokyonight&hide_border=true)
-
-
----
 
 ### 📚 Currently Learning
 - Advanced Computer Vision  
