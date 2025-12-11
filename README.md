@@ -1,4 +1,4 @@
-# Saim-ansari-tech 
+# SaimAnsari 
 
 <h1 align="center">Hi, I'm Saim Ansari</h1>_
 <h3 align="center">Robotics & AI Student | Intelligent Systems Developer</h3>
